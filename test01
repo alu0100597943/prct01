@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x 2 nestor nestor 4096 sep 20 13:11 docs
+drwxrwxr-x 2 nestor nestor 4096 sep 20 13:12 src
+-rw-rw-r-- 1 nestor nestor    0 sep 20 13:13 test01
+-rw-rw-r-- 1 nestor nestor    0 sep 20 13:12 test02
